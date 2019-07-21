@@ -1,0 +1,14 @@
+c:\Users\natal\MeusProjetos\VideoLessons\src\VideoLessons.TestSelenium\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\natal\MeusProjetos\VideoLessons\src\VideoLessons.TestSelenium\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\natal\MeusProjetos\VideoLessons\src\VideoLessons.TestSelenium\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\Users\natal\MeusProjetos\VideoLessons\src\VideoLessons.TestSelenium\bin\Debug\netcoreapp2.1\VideoLessons.TestSelenium.deps.json
+c:\Users\natal\MeusProjetos\VideoLessons\src\VideoLessons.TestSelenium\bin\Debug\netcoreapp2.1\VideoLessons.TestSelenium.runtimeconfig.json
+c:\Users\natal\MeusProjetos\VideoLessons\src\VideoLessons.TestSelenium\bin\Debug\netcoreapp2.1\VideoLessons.TestSelenium.runtimeconfig.dev.json
+c:\Users\natal\MeusProjetos\VideoLessons\src\VideoLessons.TestSelenium\bin\Debug\netcoreapp2.1\VideoLessons.TestSelenium.dll
+c:\Users\natal\MeusProjetos\VideoLessons\src\VideoLessons.TestSelenium\bin\Debug\netcoreapp2.1\VideoLessons.TestSelenium.pdb
+c:\Users\natal\MeusProjetos\VideoLessons\src\VideoLessons.TestSelenium\obj\Debug\netcoreapp2.1\VideoLessons.TestSelenium.csprojAssemblyReference.cache
+c:\Users\natal\MeusProjetos\VideoLessons\src\VideoLessons.TestSelenium\obj\Debug\netcoreapp2.1\VideoLessons.TestSelenium.csproj.CoreCompileInputs.cache
+c:\Users\natal\MeusProjetos\VideoLessons\src\VideoLessons.TestSelenium\obj\Debug\netcoreapp2.1\VideoLessons.TestSelenium.AssemblyInfoInputs.cache
+c:\Users\natal\MeusProjetos\VideoLessons\src\VideoLessons.TestSelenium\obj\Debug\netcoreapp2.1\VideoLessons.TestSelenium.AssemblyInfo.cs
+c:\Users\natal\MeusProjetos\VideoLessons\src\VideoLessons.TestSelenium\obj\Debug\netcoreapp2.1\VideoLessons.TestSelenium.dll
+c:\Users\natal\MeusProjetos\VideoLessons\src\VideoLessons.TestSelenium\obj\Debug\netcoreapp2.1\VideoLessons.TestSelenium.pdb
